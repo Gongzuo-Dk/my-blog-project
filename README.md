@@ -43,6 +43,7 @@ A personal blog web application built with Python and Django as a portfolio proj
 
 1. Clone the repository:  
 git clone https://github.com/Gongzuo-Dk/my-blog-project.git
+
 cd my-blog-project
 
 3. Create and activate a virtual environment:  

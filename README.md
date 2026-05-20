@@ -42,30 +42,31 @@ A personal blog web application built with Python and Django as a portfolio proj
 ### Installation
 
 1. Clone the repository:  
-git clone https://github.com/Gongzuo-Dk/myblog-test_project.git cd myblog-test_project
+git clone https://github.com/Gongzuo-Dk/my-blog-project.git
+cd my-blog-project
 
-2. Create and activate a virtual environment:  
+3. Create and activate a virtual environment:  
 python -m venv .env  
 .env\Scripts\activate        # Windows  
 source .env/bin/activate     # Mac/Linux
 
-3. Install dependencies:  
+4. Install dependencies:  
 pip install -r requirements.txt
 
-4. Create settings.ini in the project root  
+5. Create settings.ini in the project root  
 In it goes:  
 [settings]  
 SECRET_KEY=your secret key  
 DEBUG=True  
 ALLOWED_HOSTS=your allowed host
 
-5. Run migrations:  
+6. Run migrations:  
 python manage.py migrate
 
-6. Create admin superuser:  
+7. Create admin superuser:  
 python manage.py createsuperuser
 
-7. Start development server:  
+8. Start development server:  
 python manage.py runserver
 
 ## Deployment

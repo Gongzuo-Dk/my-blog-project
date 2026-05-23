@@ -3,15 +3,7 @@
 A personal blog web application built with Python and Django as a portfolio project to demonstrate backend web development skills.
 
 ## Live Demo
-- https://gongzuodk.pythonanywhere.com/ 
-
-## Screenshots  
-- Website on PC:  
-<img width="952" height="908" alt="Screenshot 2026-04-25 161743" src="https://github.com/user-attachments/assets/1b565d85-3178-4272-9633-bf6b2c28e081" />  
-  
-- Website on a Phone:  
-<img width="1080" height="2124" alt="67658_5188030074314686720_n" src="https://github.com/user-attachments/assets/368a3347-5f38-47d4-9825-e68a647bce43" />
-
+- https://gongzuodk.pythonanywhere.com/
 
 ## Features
 - Dynamic blog posts with images, themes and dates
@@ -82,7 +74,14 @@ views.py       → All page views
 urls.py        → URL routing  
 admin.py       → Admin configuration  
 templates/       → HTML templates  
-static/          → CSS and static images
+static/          → CSS and static images  
+
+## Screenshots  
+- Website on PC:  
+<img width="952" height="908" alt="Screenshot 2026-04-25 161743" src="https://github.com/user-attachments/assets/1b565d85-3178-4272-9633-bf6b2c28e081" />  
+- Website on a Phone:  
+<img width="1080" height="2124" alt="67658_5188030074314686720_n" src="https://github.com/user-attachments/assets/368a3347-5f38-47d4-9825-e68a647bce43" />
+
 
 ## Author
 Daniel K  
